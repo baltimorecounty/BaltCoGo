@@ -6,3 +6,6 @@
 # @global-owner1 and @global-owner2 will be requested for
 # review when someone opens a pull request.
 *  @baltimorecounty/front-end-developers
+
+# Web services will own the data
+/data/production @baltimorecounty/web-services-admin
