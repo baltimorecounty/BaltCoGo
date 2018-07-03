@@ -30,9 +30,39 @@
         "name": "Building and Development Issue",
         "id": 1010139,
         "types": [
-            {
+           	{
                 "name": "Building without a permit",
                 "id": 1010141
+			},
+            {
+                "name": "Electrical work without a permit",
+                "id": 1011113,
+                "parentId": 1011107,
+                "parentName": "Building and Development (Electrical)",
+                "streetAddress": 1011122,
+                "city": 1011125,
+                "zipCode": 1011130,
+                "description": 1011116
+            },
+            {
+                "name": "Grading work without a permit",
+                "id": 1011114,
+                "parentId": 1011108,
+                "parentName": "Building and Development (Grading)",
+                "streetAddress": 1011123,
+                "city": 1011126,
+                "zipCode": 1011127,
+                "description": 1011117
+            },
+            {
+                "name": "Plumbing work without a permit",
+                "id": 1011115,
+                "parentId": 1011109,
+                "parentName": "Building and Development (Plumbing)",
+                "streetAddress": 1011124,
+                "city": 1011129,
+                "zipCode": 1011128,
+                "description": 1011118
             }
         ],
         "description": 1010142,
