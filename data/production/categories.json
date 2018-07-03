@@ -30,10 +30,10 @@
         "name": "Building and Development Issue",
         "id": 1010139,
         "types": [
-           	{
+            {
                 "name": "Building without a permit",
                 "id": 1010141
-			},
+            },
             {
                 "name": "Electrical work without a permit",
                 "id": 1011113,
