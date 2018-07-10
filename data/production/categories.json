@@ -112,10 +112,6 @@
                 "id": 1010184
             },
             {
-                "name": "Animal cruelty",
-                "id": 1010171
-            },
-            {
                 "name": "Animal shows signs of rabies",
                 "id": 1010173
             },
@@ -149,7 +145,8 @@
             },
             {
                 "name": "Other animal complaint",
-                "id": 1010186
+                "id": 1010186,
+                "note": "The Police Department is responsible for investigating all animal cruelty incidents. <strong>If you witness a person inflicting harm on an animal, call 911 immediately.</strong><br /><br />To report animal cruelty when immediate police intervention is not required, call the police non-emergency line at 410-887-2222. Please don't use this form to report animal cruelty."				
             }
         ],
         "fields": {
@@ -232,31 +229,37 @@
         "types": [
             {
                 "name": "Can or lid lost or damaged",
-                "id": 1011083
+                "id": 1011083,
+                "note": "The County will only replace damaged cans or lids with evidence of hauler negligence. After submitting your report, please email any evidence to <a href=\"mailto:solidwaste@baltimorecountymd.gov\">solidwaste@baltimorecountymd.gov</a> and reference your request ID number."						
             },
             {
                 "name": "Property damage during collection",
-                "id": 1011084
+                "id": 1011084,
+                "note": "If your property was damaged, please also file a police report. Email the police report number along with any photos or videos to <a href=\"mailto:solidwaste@baltimorecountymd.gov\">solidwaste@baltimorecountymd.gov</a> and reference your request ID number."					
             },
             {
                 "name": "Recycling not collected",
-                "id": 1011085
+                "id": 1011085,
+                "note": "Please review the <a href=\"/Agencies/publicworks/solid_waste/troubleshoot.html\">reasons why your recycling may not have been collected</a> before submitting a report."					
             },
             {
                 "name": "Request to start new collection",
-                "id": 1011086
+                "id": 1011086,
+                "note": "Your address may already have collection service. Please <a href=\"/Redirect/internalapplications/trashrecyclingdownloadredirect.html\">check for an existing collection schedule</a> and <a href=\"/Agencies/publicworks/solid_waste/setoutguide.html\">learn how to properly set out your materials</a> before requesting new service. "					
             },
             {
                 "name": "Trash not collected",
-                "id": 1011087
+                "id": 1011087,
+                "note": "Please review the <a href=\"/Agencies/publicworks/solid_waste/troubleshoot.html\">reasons why your trash may not have been collected</a> before submitting a report"					
             },
             {
                 "name": "Yard waste not collected",
-                "id": 1011088
+                "id": 1011088,
+                "note": "Please review the <a href=\"/Agencies/publicworks/solid_waste/troubleshoot.html\">reasons why your yard waste may not have been collected</a> before submitting a report."					
             },
             {
                 "name": "Other trash and recycling problem",
-                "id": 1011089
+                "id": 1011089			
             }
         ]
     },
