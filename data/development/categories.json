@@ -335,6 +335,28 @@
         ]
     },
     {
+        "name": "Water Supply Issues",
+        "id": "D000001",
+        "types": [
+            {
+                "name": "No or low water pressure",
+                "id": "D000002",
+                "note": "Words go here."
+            },
+            {
+                "name": "Open, damaged or leaking hydrant",
+                "id": "D000003",
+                "note": "Words go here."
+            },
+            {
+                "name": "Water meter cover missing or damaged",
+                "id": "D000004",
+                "note": "Words go here."
+            }
+        ],
+        "description": "D000006"
+    },
+    {
         "name": "Website Issue",
         "id": 1024585,
         "requiresLocation": false,
