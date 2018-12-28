@@ -193,7 +193,8 @@
 			{
 				"name": "Icy conditions",
 				"id": 1011069,
-				"note": "Report icy conditions immediately by calling the Department of Public Works at 410-887-5210.<br /><br />Due to the safety risk posed by ice in the roadway, please do not submit your report online."
+				"note": "Due to the safety risk posed by ice in the roadway, we cannot take your report online.<br /><br />Please call the Department of Public Works immediately at 410-887-5210 to ensure we obtain the necessary information to address the issue as soon as possible.",
+				"shouldDisableForm": true
 			},
 			{
 				"name": "Property damaged by county",
