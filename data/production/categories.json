@@ -193,7 +193,7 @@
 			{
 				"name": "Icy conditions",
 				"id": 1011069,
-				"note": "Due to the safety risk posed by ice in the roadway, we cannot take your report online.<br /><br />Please call the Department of Public Works immediately at 410-887-5210 to ensure we obtain the necessary information to address the issue as soon as possible.",
+				"note": "Due to the safety risk posed by ice in the roadway, we cannot take your report online.<br /><br />Please call the Department of Public Works immediately at <a href=\"tel:410-887-0000\">410-887-0000</a> to ensure we obtain the necessary information to address the issue as soon as possible.",
 				"shouldDisableForm": true
 			},
 			{
@@ -300,6 +300,31 @@
 			"id": 1011092
 		}]
 	},
+    {
+        "name": "Water and Sewer Issues",
+        "id": "D000001",
+        "types": [
+            {
+                "name": "Sewer issues",
+                "id": "D000002",
+                "note": "Issues such as missing manhole covers, sewer backups, overflows or odors require immediate attention, and therefore cannot be reported online.<br /><br />Please call the Department of Public Works at <a href=\"tel:410-887-7415\">410-887-7415</a> to ensure we obtain the necessary information to address the issue as soon as possible.",
+                "shouldDisableForm": true
+            },
+            {
+                "name": "Stormwater issues",
+                "id": "D000004",
+                "note": "Stormwater issues such as sinkholes and missing or damaged storm grates require immediate attention due to the risk of harm to persons or property, and therefore cannot be reported online.<br /><br />Please call the Department of Public Works at <a href=\"tel:410-887-7415\">410-887-7415</a> to ensure we obtain the necessary information to address the issue as soon as possible.",
+                "shouldDisableForm": true
+            },
+            {
+                "name": "Water supply issues",
+                "id": "D000005",
+                "note": "Baltimore City (not Baltimore County) owns, maintains and repairs all water mains and hydrants. However, service requests for broken water mains, leaking hydrants and drinking water concerns can be reported directly to Baltimore County by calling <a href=\"tel:410-887-7415\">410-887-7415</a> anytime.",
+                "shouldDisableForm": true
+            }			
+        ],
+        "description": "D000006"
+    },	
 	{
 		"name": "Website Issue",
 		"id": 1011097,
