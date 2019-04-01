@@ -235,9 +235,11 @@
                 "name": "Flooded road",
                 "id": 1023400
             },
-            {
+           {
                 "name": "Icy conditions",
-                "id": 1023395
+                "id": 1011069,
+                "note": "Due to the safety risk posed by ice in the roadway, we cannot take your report online.<br /><br />Please call the Department of Public Works immediately at 410-887-5210 to ensure we obtain the necessary information to address the issues as soon as possible.",
+                "shouldDisableForm": true
             },
             {
                 "name": "Overgrown trees or bushes near roadway",
@@ -333,6 +335,31 @@
                 "id": 1024829
             }
         ]
+    },
+    {
+        "name": "Water and Sewer Issues",
+        "id": "D000001",
+        "types": [
+            {
+                "name": "Sewer issues",
+                "id": "D000002",
+                "note": "Due to the safety risk posed by sewer issues, we cannot take your report online.<br /><br />Please call the Department of Public Works immediately at 410-877-7415 to ensure we obtain the necessary information to address the issue as soon as possible. ",
+                "shouldDisableForm": true
+            },
+            {
+                "name": "Stormwater issues",
+                "id": "D000004",
+                "note": "Due to the safety risk posed by stormwater issues, we cannot take your report online.<br /><br />Please call the Department of Public Works immediately at 410-877-7415 to ensure we obtain the necessary information to address the issue as soon as possible. ",
+                "shouldDisableForm": true
+            },
+            {
+                "name": "Water supply issues",
+                "id": "D000005",
+                "note": "Baltimore City is responsible for water service in Baltimore County. The city handles all issues related to the water service.<br /><br />Please report your problem to Baltimore City using their <a href=\"https://balt311.baltimorecity.gov\">online form</a> or by calling 410-396-5352. City residents should call 311.",
+                "shouldDisableForm": true
+            }			
+        ],
+        "description": "D000006"
     },
     {
         "name": "Website Issue",
